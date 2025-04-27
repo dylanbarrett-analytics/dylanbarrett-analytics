@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Dylan Barrett
+**Aspiring Data Analyst** | SQL | Tableau | Excel
 
-<!--
-**dylanbarrett-analytics/dylanbarrett-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about uncovering insights through data. I recently completed a **Customer RFM Segmentation** project, building an interactive Tableau dashboard and applying SQL for data preparation. I'm excited to grow my skills and help businesses make smarter, data-driven decisions.
 
-Here are some ideas to get you started:
+## Current Focus:
+- Building a portfolio of real-world analytics projects
+- Mastering SQL querying and dashboard visualization
+- Preparing for entry-level data analyst roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+-[Tableau Public Portfolio](https://public.tableau.com/app/profile/dylan.barrett1539)
+- More coming soon
