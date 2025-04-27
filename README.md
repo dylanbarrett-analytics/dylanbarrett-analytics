@@ -9,5 +9,4 @@ I'm passionate about uncovering insights through data. I recently completed a **
 - Preparing for entry-level data analyst roles
 
 ## Connect with me:
--[Tableau Public Portfolio](https://public.tableau.com/app/profile/dylan.barrett1539)
-- More coming soon
+[Tableau Public Portfolio](https://public.tableau.com/app/profile/dylan.barrett1539)
