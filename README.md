@@ -15,8 +15,6 @@ I'm passionate about uncovering insights through data. I recently completed a **
 
 ## Connect with Me:
 
-**Tableau Public Portfolio**
-
 <p align="center">
   <strong>Tableau Public Portfolio</strong><br>
   <a href="https://public.tableau.com/app/profile/dylan.barrett1539">
