@@ -17,4 +17,9 @@ I'm passionate about uncovering insights through data. I recently completed a **
 
 **Tableau Public Portfolio**
 
-[![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/dylan.barrett1539)
+<p align="center">
+  <strong>Tableau Public Portfolio</strong><br>
+  <a href="https://public.tableau.com/app/profile/dylan.barrett1539">
+    <img src=https://img.shields.io/badge/Visualization-Tableau-blue" alt="Tableau Public">
+  </a>
+</p>
