@@ -4,7 +4,7 @@
 I'm passionate about uncovering insights through data. I recently completed a **Customer Churn Analysis** project using Excel and Tableau, which follows my previous two projects that used PostgreSQL. I'm working on a portfolio of real-world projects designed to highlight business-relevant insights, clean visuals, and structured storytelling.
 
 ## 💡 Skills:
-- SQL (Data Preparation and Exploration)
+- SQL (Data Preparation & Exploration)
 - Tableau (Dashboard Design & Interactivity)
 - Excel (Data Organization)
 
