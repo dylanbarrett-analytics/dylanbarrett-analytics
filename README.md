@@ -17,6 +17,6 @@ I'm passionate about uncovering insights through data. I recently completed a **
 - Working toward professional-level Python fluency
 - Exploring predictive analytics via statistical modeling, forecasting techniques, and machine learning
 
-## 📬 Connect with Me:
+## 🗂️ Project Portfolio:
 
 [![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/dylan.barrett1539)
