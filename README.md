@@ -1,7 +1,7 @@
 # Hi, I'm Dylan Barrett
 **Aspiring Data Analyst**
 
-I'm passionate about uncovering insights through data. I recently completed a **Customer Churn Analysis** project using Excel and Tableau, which follows my previous two projects that used PostgreSQL. I'm working on a portfolio of real-world projects designed to highlight business-relevant insights, clean visuals, and structured storytelling.
+I'm passionate about uncovering insights through data to help solve real-world business problems. I'm building a portfolio of projects that use SQL, Excel, and Tableau to explore aspects such as customer behavior, churn, and operational trends. My focus is on delivering structured storytelling, clean visuals, and analysis that professional decision-makers can understand at a glance.
 
 ## 💡 Skills:
 - SQL (Data Preparation & Exploration)
