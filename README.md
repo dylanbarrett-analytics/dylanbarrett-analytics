@@ -1,22 +1,20 @@
-# Hi, I'm Dylan Barrett
+# Dylan Barrett
 **Data Analyst**
 
-I'm passionate about uncovering insights through data to help solve real-world business problems. I'm building a portfolio of projects that use SQL, Excel, and Tableau to explore aspects such as customer behavior, churn, and operational trends. My focus is on delivering structured storytelling, clean visuals, and analysis that professional decision-makers can understand at a glance.
+I'm focused on using data to solve real-world business problems. I've been building projects using a combination of Python, SQL, Excel, and Tableau. These projects explore topics such as SaaS user cohort comparisons, time-related behavioral trends, product-related behavioral patterns, customer churn, and more.
 
-## 💡 Skills:
-- SQL (Data Preparation & Exploration)
-- Tableau (Dashboard Design & Interactivity)
+## Skills:
+- Python (Data Prep & Exploration)
+- SQL (Data Prep & Exploration)
+- Tableau (Dashboard Design)
 - Excel (Data Organization)
 
-## 📌 Current Focus:
-- Building a polished analytics portfolio of diverse project types
-- Mastering SQL querying and dashboard visualization
-- Preparing for entry-level data analyst roles
+## Current Focus:
+- Building an analytics portfolio of diverse project types
+- Improving programming skills and using Python as a primary data tool
 
-## 🚀 Future Learning:
-- Working toward professional-level Python fluency
-- Exploring predictive analytics via statistical modeling, forecasting techniques, and machine learning
+## Future Learning:
+- Starting to explore predictive techniques such as forecasting and basic machine learning
 
-## 🗂️ Project Portfolio:
-
+## Project Portfolio:
 [![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/dylan.barrett1539)
