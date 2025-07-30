@@ -18,3 +18,5 @@ I'm focused on using data to solve real-world business problems. I've been build
 
 ## Project Portfolio:
 [![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/dylan.barrett1539)
+
+<sub>Note: I approach data and problem-solving from a place of curiosity, not ideology. I have no political affiliation, and I value open-minded thinking in both my work and life in general.</sub>
