@@ -1,7 +1,7 @@
 # Dylan Barrett
 **Data Analyst**
 
-I'm focused on using data to solve real-world business problems. I've been building projects using a combination of Python, SQL, Tableau, Excel, and cloud-based data warehousing. These projects explore topics such as detecting fraud in credit card transactions, SaaS user cohort comparisons, time-related behavioral trends, product-related behavioral patterns, customer churn, and more.
+I'm focused on using data to solve real-world problems. I've been building projects using a combination of Python, SQL, Tableau, Excel, and cloud-based data warehousing.
 
 ## Skills:
 - Python (data prep & exploration)
