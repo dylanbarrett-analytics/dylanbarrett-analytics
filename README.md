@@ -1,5 +1,7 @@
 # Dylan Barrett
-**Data Analyst**
+## Data Analyst
+
+---
 
 I enjoy using data to answer real-world questions.
 
