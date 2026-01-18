@@ -1,5 +1,5 @@
 # Dylan Barrett
-## Data Analyst
+<p><strong>Data Analyst</strong></p>
 
 I enjoy using data to answer real-world questions.
 
